@@ -13,9 +13,9 @@ num = input('Enter number: ')
 if num.isdecimal() and 0 < (n:=int(num)) < 100000:
     
     if is_prime(n):
-        print ('The number is not prime!')
-    else:
         print ('The number is prime!')
+    else:
+        print ('The number is not prime!')
 
 else:
     print('Error. Enter a positiv integer up to 100000!')
