@@ -1,0 +1,416 @@
+{
+    "N:\\GEEKBRAINS\\Python\\hw": {
+        "object_type": "Directory",
+        "object_name": "HW_Python",
+        "object_size": 454657,
+        "parant_directory": "hw"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\": {
+        "object_type": "File",
+        "object_name": "README.md",
+        "object_size": 11,
+        "parant_directory": ""
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git": {
+        "object_type": "Directory",
+        "object_name": "refs",
+        "object_size": 2334,
+        "parant_directory": ".git"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\hooks": {
+        "object_type": "File",
+        "object_name": "update.sample",
+        "object_size": 3650,
+        "parant_directory": "hooks"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\info": {
+        "object_type": "File",
+        "object_name": "exclude",
+        "object_size": 240,
+        "parant_directory": "info"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\logs": {
+        "object_type": "Directory",
+        "object_name": "refs",
+        "object_size": 17210,
+        "parant_directory": "logs"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\logs\\refs": {
+        "object_type": "Directory",
+        "object_name": "remotes",
+        "object_size": 5544,
+        "parant_directory": "refs"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\logs\\refs\\heads": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 190,
+        "parant_directory": "heads"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\logs\\refs\\remotes": {
+        "object_type": "Directory",
+        "object_name": "origin",
+        "object_size": 2772,
+        "parant_directory": "remotes"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\logs\\refs\\remotes\\origin": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 154,
+        "parant_directory": "origin"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects": {
+        "object_type": "Directory",
+        "object_name": "pack",
+        "object_size": 3324,
+        "parant_directory": "objects"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\05": {
+        "object_type": "File",
+        "object_name": "f2133030a276b52c4752812ab9a75f30560415",
+        "object_size": 165,
+        "parant_directory": "05"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\07": {
+        "object_type": "File",
+        "object_name": "41b2909f2794b48a5ad606d02e4c3f59cf6acf",
+        "object_size": 195,
+        "parant_directory": "07"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\0e": {
+        "object_type": "File",
+        "object_name": "29f0bf9e0b2a4538236d21bd404d0622825ac0",
+        "object_size": 162,
+        "parant_directory": "0e"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\11": {
+        "object_type": "File",
+        "object_name": "f99aa1c5d5a41dae8e7e0751f2d494f16f58be",
+        "object_size": 119,
+        "parant_directory": "11"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\14": {
+        "object_type": "File",
+        "object_name": "989f26c4f33a81a9a4ed958cabd5465ed1d9a0",
+        "object_size": 596,
+        "parant_directory": "14"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\19": {
+        "object_type": "File",
+        "object_name": "240456ff32e62a7bc2adaf282ae068e74a9c4c",
+        "object_size": 119,
+        "parant_directory": "19"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\1f": {
+        "object_type": "File",
+        "object_name": "e69b773037196e5cc29e3ec97dff114c5c32a1",
+        "object_size": 375,
+        "parant_directory": "1f"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\20": {
+        "object_type": "File",
+        "object_name": "bda8a55a798d589c0a93738a2755e5cf18265f",
+        "object_size": 320,
+        "parant_directory": "20"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\29": {
+        "object_type": "File",
+        "object_name": "decb7ef533f4d58c0781d32ab1297b5349bd1c",
+        "object_size": 144,
+        "parant_directory": "29"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\2b": {
+        "object_type": "File",
+        "object_name": "07ae5a40fcafa6c01fc46074673d19386c9184",
+        "object_size": 122,
+        "parant_directory": "2b"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\44": {
+        "object_type": "File",
+        "object_name": "6d81ad334f337a8c4f5f5d17cefdfc4d44ecf9",
+        "object_size": 50,
+        "parant_directory": "44"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\4a": {
+        "object_type": "File",
+        "object_name": "4f2fe08582d7e8ee361174856b472e0a1a6ed8",
+        "object_size": 1010,
+        "parant_directory": "4a"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\4b": {
+        "object_type": "File",
+        "object_name": "152d00ade5a16e13eb38c5121d971459b0cb31",
+        "object_size": 108,
+        "parant_directory": "4b"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\57": {
+        "object_type": "File",
+        "object_name": "69bf1218b76d8b787667f98831706487db6d1a",
+        "object_size": 169,
+        "parant_directory": "57"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\5b": {
+        "object_type": "File",
+        "object_name": "318a38d6ba7c2348f35844b6ba3f8ecd139d51",
+        "object_size": 54,
+        "parant_directory": "5b"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\60": {
+        "object_type": "File",
+        "object_name": "6ab58fd1f040fd4acf65aa62f9e4fcfdbb72cd",
+        "object_size": 144,
+        "parant_directory": "60"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\61": {
+        "object_type": "File",
+        "object_name": "9f9630a5c62f348504eaf692a4aa46061ae093",
+        "object_size": 523,
+        "parant_directory": "61"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\64": {
+        "object_type": "File",
+        "object_name": "6cf5442fccd87f0559830b6be778a5b16f57bf",
+        "object_size": 631,
+        "parant_directory": "64"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\68": {
+        "object_type": "File",
+        "object_name": "9da1f0cb01948d7ff1c0dd63cd598573790f5c",
+        "object_size": 297,
+        "parant_directory": "68"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\6a": {
+        "object_type": "File",
+        "object_name": "eb1adb35bd21983ce40488d49c25f55d79fdff",
+        "object_size": 152,
+        "parant_directory": "6a"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\6d": {
+        "object_type": "File",
+        "object_name": "09a5a69e5affdb298887061a6395b8b01cdf33",
+        "object_size": 661,
+        "parant_directory": "6d"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\6e": {
+        "object_type": "File",
+        "object_name": "d7b2447261be1228e2e72f1e1cb42407bb3611",
+        "object_size": 107,
+        "parant_directory": "6e"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\6f": {
+        "object_type": "File",
+        "object_name": "d9cad18879fbce29860febf2a90129a597746f",
+        "object_size": 169,
+        "parant_directory": "6f"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\73": {
+        "object_type": "File",
+        "object_name": "5fb36e383d29c4e4537290d80fe42f80fc2a0d",
+        "object_size": 846,
+        "parant_directory": "73"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\7e": {
+        "object_type": "File",
+        "object_name": "596cbe8529cd1e961f6d9055fb0030a7257a09",
+        "object_size": 41,
+        "parant_directory": "7e"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\82": {
+        "object_type": "File",
+        "object_name": "300e3aae98b7bdcaa508c06d6077d9a656f0ec",
+        "object_size": 230,
+        "parant_directory": "82"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\85": {
+        "object_type": "File",
+        "object_name": "b8622075a8ee2d713191336060b5ca2718d4ed",
+        "object_size": 611,
+        "parant_directory": "85"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\87": {
+        "object_type": "File",
+        "object_name": "7d6053dd46fb16b7a6306b25c3938a094ad216",
+        "object_size": 80,
+        "parant_directory": "87"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\89": {
+        "object_type": "File",
+        "object_name": "354c54d42806d6901d4b532683bfd0ab905f48",
+        "object_size": 629,
+        "parant_directory": "89"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\96": {
+        "object_type": "File",
+        "object_name": "0384b8ea2735bf3b987be47999cd9d7b17c029",
+        "object_size": 145,
+        "parant_directory": "96"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\a2": {
+        "object_type": "File",
+        "object_name": "11c9d2342a88893d99455199e2e7ad8bc020a3",
+        "object_size": 144,
+        "parant_directory": "a2"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\a8": {
+        "object_type": "File",
+        "object_name": "a0da3fbc91ff11d79849c6684989f759c7735e",
+        "object_size": 79,
+        "parant_directory": "a8"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\aa": {
+        "object_type": "File",
+        "object_name": "707f8c671997edda265b717fa8aeb7f8af1263",
+        "object_size": 164,
+        "parant_directory": "aa"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\b3": {
+        "object_type": "File",
+        "object_name": "a6ec070f2ca8a7215fb87677a8b620c415183c",
+        "object_size": 108,
+        "parant_directory": "b3"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\b4": {
+        "object_type": "File",
+        "object_name": "904a62c8414fe8d8ef47f201744327eae8606f",
+        "object_size": 166,
+        "parant_directory": "b4"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\b9": {
+        "object_type": "File",
+        "object_name": "d8fc81bf5e425bbeaf24915f11a188148df6fa",
+        "object_size": 522,
+        "parant_directory": "b9"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\bd": {
+        "object_type": "File",
+        "object_name": "2b24b080fc05916ccff1e3cb1d2c1a2facb43f",
+        "object_size": 385,
+        "parant_directory": "bd"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\c0": {
+        "object_type": "File",
+        "object_name": "fd243f7ec914169a6b7f4957120afe9794b170",
+        "object_size": 658,
+        "parant_directory": "c0"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\c3": {
+        "object_type": "File",
+        "object_name": "b40a74e956b6242cba18e8e91a95543f8e444b",
+        "object_size": 133,
+        "parant_directory": "c3"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\d2": {
+        "object_type": "File",
+        "object_name": "d4abc91fead022594446a29c7807a50c3d2f01",
+        "object_size": 144,
+        "parant_directory": "d2"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\d4": {
+        "object_type": "File",
+        "object_name": "88a417d00d8ce0fde3e5307c8b36ae063e8471",
+        "object_size": 170,
+        "parant_directory": "d4"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\de": {
+        "object_type": "File",
+        "object_name": "c477182735c9f8e28d9434a45a647993bee478",
+        "object_size": 376,
+        "parant_directory": "de"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\ea": {
+        "object_type": "File",
+        "object_name": "d81b4c6328672225f6ceda913eadb64214dc84",
+        "object_size": 119,
+        "parant_directory": "ea"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\eb": {
+        "object_type": "File",
+        "object_name": "8291243c955dac7088caa0e05f10e45936f805",
+        "object_size": 144,
+        "parant_directory": "eb"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\f1": {
+        "object_type": "File",
+        "object_name": "8e6573c2a987eaa1e18ec1e738d1787ace4246",
+        "object_size": 701,
+        "parant_directory": "f1"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\f7": {
+        "object_type": "File",
+        "object_name": "e8ca9fe8e3c53f3368245352c66c426632f65c",
+        "object_size": 1143,
+        "parant_directory": "f7"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\f9": {
+        "object_type": "File",
+        "object_name": "1bac84114d854df1f3ed2dcffc661253569ba6",
+        "object_size": 170,
+        "parant_directory": "f9"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\ff": {
+        "object_type": "File",
+        "object_name": "60dfac049e5892937d0c8539f2c1c8e6adf855",
+        "object_size": 367,
+        "parant_directory": "ff"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\objects\\pack": {
+        "object_type": "File",
+        "object_name": "pack-10de782cfd673e1bfd95c05ce758303ebfe03c87.pack",
+        "object_size": 2140,
+        "parant_directory": "pack"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\refs": {
+        "object_type": "Directory",
+        "object_name": "tags",
+        "object_size": 0,
+        "parant_directory": "refs"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\refs\\heads": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 41,
+        "parant_directory": "heads"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\refs\\remotes": {
+        "object_type": "Directory",
+        "object_name": "origin",
+        "object_size": 399,
+        "parant_directory": "remotes"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\.git\\refs\\remotes\\origin": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 41,
+        "parant_directory": "origin"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\hw_1": {
+        "object_type": "File",
+        "object_name": "task_2.py",
+        "object_size": 1528,
+        "parant_directory": "hw_1"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\hw_6": {
+        "object_type": "Directory",
+        "object_name": "Module_Chess",
+        "object_size": 4250,
+        "parant_directory": "hw_6"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\hw_6\\Module_Chess": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 2125,
+        "parant_directory": "Module_Chess"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\hw_6\\Module_Chess\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 209,
+        "parant_directory": "__pycache__"
+    },
+    "N:\\GEEKBRAINS\\Python\\hw\\HW_Python\\hw_8": {
+        "object_type": "File",
+        "object_name": "task_3.py",
+        "object_size": 4374,
+        "parant_directory": "hw_8"
+    }
+}
